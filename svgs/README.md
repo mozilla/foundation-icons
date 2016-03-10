@@ -2,6 +2,8 @@
 
 Hello and welcome, this is an early prototype of an icon font for the Mozilla Foundation's [Mozmaker Bootstrap theme](https://github.com/mozilla/mozmaker).
 
+Check out the [Demo Page](http://flukeout.github.io/mozmaker-icon-font/index.html).
+
 ##Available Icons
 
 Ready for this? So far we've got...
@@ -26,3 +28,6 @@ To use an individual icon, add a class with that icon name to an element, it wil
 
 * ``<span class="icon-bookmark"> This is a bookmark<span/>``
 
+##How is it made?
+
+I used [https://glyphter.com/](https://glyphter.com/) to create this test version. We'll want to find a tool that all of us can use and contribute to, however.
