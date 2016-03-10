@@ -16,7 +16,7 @@ Usage ``class="icon-bookmark"``
 
 ![Bookmark Icon Small](http://flukeout.github.io/mozmaker-icon-font/svgs/bookmark-small.svg)
 
-Usage ``class="icon-bookmark"``
+Usage ``class="icon-bookmark-small"``
 
 ##Usage
 
