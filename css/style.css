@@ -1,0 +1,31 @@
+.mozmaker-icon-fonts {
+  font-family: "Helvetica Neue";
+}
+
+body {
+  padding: 40px;
+}
+
+div {
+  margin-bottom: 20px;
+}
+.small {
+  font-size: 16px;
+  color: green;
+}
+
+.medium {
+  font-size: 32px;
+  color: red;
+}
+
+.large {
+  font-size: 64px;
+  color: blue;
+}
+
+img {
+  width: 32px;
+  position: relative;
+  top: 10px;
+}
