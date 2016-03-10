@@ -32,4 +32,4 @@ To use an individual icon, add a class with that icon name to an element, it wil
 
 ##How is it made?
 
-I used [https://glyphter.com/](https://glyphter.com/) to create this test version. We'll want to find a tool that all of us can use and contribute to, however.
+I used [https://glyphter.com/](https://glyphter.com/) to create this test version. Let's figure out the best tooling, maybe we can just set up a shared account on Glyphter and see how that goes.
