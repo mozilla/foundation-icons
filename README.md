@@ -10,9 +10,13 @@ Ready for this? So far we've got...
 
 ####Bookmark
 
-![Bookmark Icon](http://flukeout.github.io/mozmaker-icon-font/svgs/resource-bookmark.svg)
+![Bookmark Icon](http://flukeout.github.io/mozmaker-icon-font/svgs/bookmark.svg)
 
-Usage: ``class="icon-bookmark"``
+Usage ``class="icon-bookmark"``
+
+![Bookmark Icon Small](http://flukeout.github.io/mozmaker-icon-font/svgs/bookmark-small.svg)
+
+Usage ``class="icon-bookmark"``
 
 ##Usage
 
