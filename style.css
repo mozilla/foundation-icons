@@ -56,3 +56,13 @@ h1 {
   }
 }
 
+
+.icon-list div {
+  margin: 10px 0;
+}
+
+
+code {
+  background: #efefef;
+  padding: 4px;
+}
