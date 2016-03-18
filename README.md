@@ -2,21 +2,8 @@
 
 Hello and welcome, this is an early prototype of an icon font for the Mozilla Foundation's [Mozmaker Bootstrap theme](https://github.com/mozilla/mozmaker).
 
-Check out the [Demo Page](http://flukeout.github.io/mozmaker-icon-font/index.html).
+Check out the [Demo Page](http://flukeout.github.io/mozmaker-icon-font/index.html) to see all of the icons and usage instructions.
 
-##Available Icons
-
-Ready for this? So far we've got...
-
-####Bookmark
-
-![Bookmark Icon](http://flukeout.github.io/mozmaker-icon-font/svgs/bookmark.svg)
-
-Usage ``class="icon-bookmark"``
-
-![Bookmark Icon Small](http://flukeout.github.io/mozmaker-icon-font/svgs/bookmark-small.svg)
-
-Usage ``class="icon-bookmark-small"``
 
 ##Usage
 
