@@ -21,6 +21,8 @@ To use an individual icon, add a class with that icon name to an element, it wil
 
 * ``<span class="icon-bookmark"> This is a bookmark<span/>``
 
+Here's the [list of avilable icons](http://flukeout.github.io/mozmaker-icon-font/index.html).
+
 ##How is it made?
 
 I used [https://glyphter.com/](https://glyphter.com/) to create this test version. Let's figure out the best tooling, maybe we can just set up a shared account on Glyphter and see how that goes.
