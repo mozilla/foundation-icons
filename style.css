@@ -6,29 +6,6 @@ body {
   padding: 40px;
 }
 
-.small {
-  font-size: 16px;
-}
-
-.medium {
-  font-size: 32px;
-}
-
-.chunk {
-  margin: 40px 0;
-}
-
-.blue {
-  color: #1578e5;
-}
-
-.magenta {
-  color: #e5155a;
-}
-
-.large {
-  font-size: 64px;
-}
 
 img {
   width: 32px;
@@ -38,7 +15,21 @@ img {
 
 h1 {
   border-bottom: solid 2px black;
-  margin-bottom: 40px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  margin-top: 40px;
+}
+
+h3 {
+  margin: 25px 0 5px 0;
+  padding: 0;
+}
+
+p {
+  margin: 5px 0 25px 0;
+  color: rgba(0,0,0,.6);
 }
 
 .auto-size {
@@ -61,6 +52,21 @@ h1 {
   margin: 10px 0;
 }
 
+.large-icons {
+  overflow: auto;
+  width: 100%;
+}
+
+
+.large-icons div {
+  margin: 15px 0 ;
+}
+
+.large-icons :before {
+  font-size: 50px;
+  text-align: center;
+  margin: 0 15px 0 0;
+}
 
 code {
   background: #efefef;
