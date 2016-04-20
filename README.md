@@ -7,15 +7,15 @@ Check out the [Demo Page](http://flukeout.github.io/mozmaker-icon-font/index.htm
 
 ##Usage
 
-For now, download and include the following in your project...
+For now, include both files in the ``assets`` folder in your project:
 
-* ``mozmaker-icons.css`` from the CSS folder
-* The ``fonts`` folder
+* ``mozmaker-icons.css``
+* ``mozmaker-icons.woff``
 
 Then, include the stylesheet in your HTML page...
 
-*  ``<link rel="stylesheet" href="css/mozmaker-icons.css" type="text/css">``
-* Make sure the references to the Fonts folder in this file are correct, they will change depending on where you put the CSS file.
+* ``<link rel="stylesheet" href="mozmaker-icons.css" type="text/css">``
+* Ensure the reference font file in the style sheet are correct.
 
 To use an individual icon, add a class with that icon name to an element, it will get inserted in front of the copy...
 
