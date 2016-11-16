@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>page-with-bookmark</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="All" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="page-with-bookmark" fill="#000000">
+            <g id="Group" transform="translate(6.000000, 4.000000)">
+                <path d="M16.809,20.987 L16.809,20.486 L16.809,20.987 L17.309,20.987 L16.809,20.987 L16.809,20.987 Z M13.933,1.486 L13.933,0.987 L14.931,0.987 L14.931,1.486 L16.309,1.486 L16.309,20.486 L1.868,20.486 L1.868,1.486 L9.617,1.486 L9.617,0.987 L10.617,0.987 L10.617,1.486 L13.933,1.486 L13.933,1.486 Z M0.869,21.486 L17.309,21.486 L17.309,0.487 L0.869,0.487 L0.869,21.486 Z" id="Fill-1"></path>
+                <polyline id="Fill-2" points="14.931 0.987 13.933 0.987 13.933 1.486 13.931 7.658 12.275 6.525 10.617 7.657 10.617 0.987 9.617 0.987 9.617 9.551 12.275 7.735 14.931 9.553 14.931 0.987"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,21 +1,71 @@
 .mozmaker-icon-fonts {
-  font-family: "Helvetica Neue";
+  font-family: "Fira Sans","Helvetica Neue";
+  font-weight: 400;
 }
 
 body {
-  padding: 40px;
+  padding: 20px;
+  margin: 0;
 }
 
+.search-ui {
+  padding: 5px 0 15px 0;
+  text-align: center;
+}
 
-img {
-  width: 32px;
+.search-ui input {
+  width: 500px;
+  border: solid 2px #ddd;
+  border-width: 0 0 2px 0;
+  font-size: 22px;
+  font-family: inherit;
+  outline: none;
+}
+
+.dynamic-icon-list {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 -10px;
+}
+
+.icon-item {
+  flex: 1;
+  background: #eee;
+  margin: 10px;
+  text-align: center;
+  min-width: 200px;
   position: relative;
-  top: 10px;
+  height: 150px;
+  display: flex;
+  padding: 10px 10px 60px 10px;
+  align-items: center;
+  justify-content: center;
+}
+
+.icon-item img {
+  max-height: 70%;
+  flex: 1;
+}
+
+.icon-name {
+  position: absolute;
+  bottom: 40px;
+  width: 100%;
+  left: 0;
+}
+
+.icon-class {
+  position: absolute;
+  bottom: 15px;
+  width: 100%;
+  left: 0;
 }
 
 h1 {
   border-bottom: solid 2px black;
-  margin-bottom: 20px;
+  font-weight: 500;
+  font-size: 35px;
+  margin-bottom: 25px;
 }
 
 h2 {
@@ -28,7 +78,7 @@ h3 {
 }
 
 p {
-  margin: 5px 0 25px 0;
+  margin: 5px 0 30px 0;
   color: rgba(0,0,0,.6);
 }
 
@@ -47,6 +97,12 @@ p {
   }
 }
 
+.test {
+  background: black;
+  color: white;
+  font-size: 50px;
+  padding: 10px;
+}
 
 .icon-list div {
   margin: 10px 0;
@@ -56,7 +112,6 @@ p {
   overflow: auto;
   width: 100%;
 }
-
 
 .large-icons div {
   margin: 15px 0 ;
@@ -71,4 +126,20 @@ p {
 code {
   background: #efefef;
   padding: 4px;
+  font-size: 15px;
+  margin-right: 5px;
+}
+
+.example {
+  color: black;
+  margin-left: 8px;
+}
+
+a {
+  color: #cf299d;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }

@@ -2,65 +2,35 @@
   <head>
     <link rel="stylesheet" href="assets/mozmaker-icons.css" type="text/css">
     <link rel="stylesheet" href="style.css" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Fira+Sans:400,500,700" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-2.2.4.min.js" crossorigin="anonymous"></script>
+    <script src="js/icons.js"></script>
+    <script src="js/icon-list.js"></script>
+
+    <link rel="shortcut icon" href="favicon.png">
+    
     <title>Mozilla Foundation Icon Font</title>
   </head>
 
   <body>
     <div class="mozmaker-icon-fonts">
-
       <h1>Mozilla Foundation Icon Font</h1>
+
       <p>
-        Visit the <a href="https://github.com/flukeout/mozmaker-icon-font">Github Repo</a> for more info, to report problems or to suggest new icons.
+        To use an icon, add the corresponding class name to an element on your page. Right-click the icons to save the .svg file if you want it.
+        Visit the <a href="https://github.com/flukeout/mozmaker-icon-font">Github Repo</a> for more info, 
+        to report problems or to suggest new icons.
       </p>
 
-      <h2>Available Icons</h2>
+      <p class="example-wrapper">
+       <strong>Example &rarr;</strong> <code>&lt;span class="icon-lock"&gt;Privacy&lt;/span&gt;</code> will display as <span class='example icon-lock'>Privacy</span>
+      </p>
 
-      <h3>Small</h3>
-      <p>These can be used beside text.</p>
-      <div class="icon-list">
-        <div class="icon-checkmark"> .icon-bookmark</div>
-        <div class="icon-github"> .icon-github</div>
-        <div class="icon-lock"> .icon-lock</div>
-        <div class="icon-question-mark"> .icon-question-mark</div>
-        <div class="icon-twitter"> .icon-twitter</div>
-        <div class="icon-speech-bubble"> .icon-speech-bubble</div>
-        <div class="icon-bookmark-small"> .icon-bookmark-small</div>
-        <div class="icon-menu-close"> .icon-menu-close</div>
-        <div class="icon-hamburger-menu"> .icon-hamburger-menu</div>
-        <div class="icon-clock"> .icon-clock</div>
-        <div class="icon-map-marker"> .icon-map-marker</div>
+      <div class="search-ui">
+        <input placeholder="Find an icon" type="text" class="icon-search" />
       </div>
 
-      <h3>Large</h3>
-      <p>These can be used as standalone images.</p>
-      <div class="icon-list large-icons">
-        <div class="icon-mozilla-logo"> .icon-mozilla-logo</div>
-        <div class="icon-bookmark"> .icon-bookmark</div>
-        <div class="icon-calendar"> .icon-calendar</div>
-        <div class="icon-flag"> .icon-flag</div>
-        <div class="icon-open-book"> .icon-open-book</div>
-        <div class="icon-certificate"> .icon-certificate</div>
-        <div class="icon-flowerhands"> .icon-flowerhands</div>
-        <div class="icon-holding-document"> .icon-holding-document</div>
-        <div class="icon-community"> .icon-community</div>
-        <div class="icon-pencil-hand"> .icon-pencil-hand</div>
-        <div class="icon-science-drop"> .icon-science-drop</div>
-        <div class="icon-science-drop-double"> .icon-science-drop-double</div>
-      </div>
-
-
-      <h2>Usage instructions</h2>
-
-      <p>To use an icon, add the corresponding class name to an element on your page. The icon will be inserted into it and will precede any text that's in that element.</p>
-
-      <h4>For example...</h4>
-
-      <p><code>&lt;span class="icon-lock"&gt; Privacy Settings&lt;/span&gt;</code></p>
-
-      <h4>Will display as...</h4>
-
-      <p><span class='icon-lock'> Privacy Settings</span></p>
-
+      <div class="dynamic-icon-list"></div>
 
     </div>
 
