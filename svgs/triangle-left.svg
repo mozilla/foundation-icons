@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>triangle-left</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="All" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="triangle-left" fill="#000000">
+            <path d="M6.41200071,5.12373333 C6.33733405,5.20693333 6.30000071,5.30826667 6.30000071,5.42453333 L6.30000071,12.5744 C6.30000071,12.6917333 6.33733405,12.7909333 6.41200071,12.8741333 C6.48666738,12.9584 6.58373405,13 6.70000071,13 C6.80026738,13 6.87386738,12.9733333 6.92506738,12.9242667 L6.97520071,12.8741333 L10.8749341,9.4736 C11.0242674,9.3232 11.098934,9.16533333 11.098934,9 C11.098934,8.83253333 11.0242674,8.67466667 10.8749341,8.52426667 L6.97520071,5.12373333 L6.90053405,5.07466667 L6.70000071,5 C6.58373405,5 6.48666738,5.0416 6.41200071,5.12373333 Z" id="Imported-Layers" transform="translate(8.699467, 9.000000) rotate(180.000000) translate(-8.699467, -9.000000) "></path>
+        </g>
+    </g>
+</svg>
