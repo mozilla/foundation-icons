@@ -13,8 +13,8 @@ $(document).ready(function(){
 
     var iconName = $("<div class='icon-name'><a href='./svgs/"+iconfile+"'>" + iconfile + "</a></div>");
 
-    var iconClassName = ".icon-" + iconfile.replace(".svg","");
-    var iconClass = $("<div class='icon-class'>" + iconClassName + "</div>");
+    var iconClassName = "icon-" + iconfile.replace(".svg","");
+    var iconClass = $('<div class="icon-class">class="' + iconClassName + '"</div>');
 
     iconItem.attr("name",iconfile.replace(".svg",""));
     iconItem.append(iconImageWrapper).append(iconName).append(iconClass);

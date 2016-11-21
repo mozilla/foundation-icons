@@ -15,6 +15,7 @@ var icons = [
 "info-i.svg",
 "community.svg",
 
+
 //Thimble & UI
 "trash-can.svg",
 "inspector-arrow.svg",
@@ -36,6 +37,7 @@ var icons = [
 "mobile-phone.svg",
 "monitor.svg",
 
+
 //Misc UI
 "arrow-down.svg",
 "hamburger-menu-close.svg",
@@ -51,6 +53,7 @@ var icons = [
 "mozfest-logo.svg",
 "mozilla-logo.svg",
 
+
 //Skills
 "skill-collaboration.svg",
 "skill-communication.svg",
@@ -59,6 +62,7 @@ var icons = [
 "skill-problem-solving.svg",
 "skill-read.svg",
 "skill-write.svg",
+
 
 // Science
 "access.svg",
@@ -89,7 +93,6 @@ var icons = [
 "institution.svg",
 
 
-
 //Learning Site Icons
 "circle-clubs.svg",
 "circle-tools.svg",
@@ -100,14 +103,10 @@ var icons = [
 "quesion-mark-outline.svg",
 "speech-bubbles.svg",
 "twitter-outline.svg",
-  
+
 
 // Learning site main CTAs
 "globe.svg",
 "bookmark-large-flat.svg",
 "envelope-letter.svg",
-
-
-
-
 ]

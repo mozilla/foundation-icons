@@ -9,6 +9,7 @@ body {
 }
 
 .search-ui {
+  margin-top: 40px;
   padding: 5px 0 15px 0;
   text-align: center;
 }
@@ -40,6 +41,7 @@ body {
 
 .icon-name, .icon-class, .icon-code {
   padding: 5px 0;
+  font-size: 14px;
 }
 
 .test {
@@ -86,8 +88,8 @@ h3 {
 }
 
 p {
-  margin: 5px 0 30px 0;
-  color: rgba(0,0,0,.6);
+  margin: 30px 0 10px 0;
+  color: rgba(0,0,0,.75);
 }
 
 .auto-size {
@@ -131,11 +133,17 @@ p {
   margin: 0 15px 0 0;
 }
 
+h4 {
+  margin: 20px 0 10px 0;
+}
+
 code {
   background: #efefef;
-  padding: 4px;
+  padding: 12px 8px;
   font-size: 15px;
   margin-right: 5px;
+  color: rgba(0,0,0,.6);
+  display: inline-block;
 }
 
 .example {

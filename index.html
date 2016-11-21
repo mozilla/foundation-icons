@@ -1,6 +1,6 @@
 <html>
   <head>
-    <link rel="stylesheet" href="assets/mozilla-foundation-icons.css" type="text/css">
+    <link rel="stylesheet" href="assets/foundation-icons.css" type="text/css">
     <link rel="stylesheet" href="style.css" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Fira+Sans:400,500,700" rel="stylesheet">
     <script src="https://code.jquery.com/jquery-2.2.4.min.js" crossorigin="anonymous"></script>
@@ -14,20 +14,25 @@
 
   <body>
     <div class="mozmaker-icon-fonts">
+
       <h1>
         Mozilla Foundation Icon Font
         <a class="github-button icon-github" href="https://github.com/flukeout/foundation-icons">Github Repo</a>
       </h1>
 
+      <p>To use the icon font, add this stylesheet to your project:</p>
+
+      <code>
+        &lt;link href="http://mozilla.github.io/foundation-icons/assets/foundation-icons.css" type="text/css" rel="stylesheet"&gt;
+      </code>
+
       <p>
-        To use an icon, add the corresponding class name to an element on your page. Right-click the icons to save the .svg file if you want it.
-        Visit the <a href="https://github.com/flukeout/foundation-icons">Github Repo</a> for more info, 
-        to report problems or to suggest new icons.
+        To use an icon, add the corresponding class name to an element on your page:
       </p>
 
-      <p class="example-wrapper">
-       <strong>Example &rarr;</strong> <code>&lt;span class="icon-lock"&gt;Privacy&lt;/span&gt;</code> will display as <span class='example icon-lock'>Privacy</span>
-      </p>
+      <div class="example-wrapper">
+        <code>&lt;span class="icon-lock"&gt;Privacy&lt;/span&gt;</code> will display as <span class='example icon-lock'>Privacy</span>
+      </div>
 
       <div class="search-ui">
         <input placeholder="Find an icon" type="text" class="icon-search" />
