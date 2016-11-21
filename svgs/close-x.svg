@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>close-x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="All" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="close-x" fill="#000000">
+            <path d="M15,13.5858 L7.822935,6.408735 L6.408735,7.822935 L13.5858,15 L6.408735,22.177065 L7.822935,23.591265 L15,16.4142 L22.177065,23.591265 L23.591265,22.177065 L16.4142,15 L23.591265,7.822935 L22.177065,6.408735 L15,13.5858 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

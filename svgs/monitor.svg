@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>monitor</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="All" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="monitor" fill="#000000">
+            <path d="M14.6666562,2 L3.33334375,2 C2.5999375,2 2,2.59990625 2,3.3333125 L2,12.1666562 C2,12.9000625 2.5999375,13.5 3.33334375,13.5 L7.66665625,13.5 L6.33334375,15 L6.33334375,16 L11.6666562,16 L11.6666562,15 L10.3333437,13.5 L14.6666562,13.5 C15.4000625,13.5 16,12.9000625 16,12.1666563 L16,3.3333125 C16,2.59990625 15.4000625,2 14.6666562,2 Z M14.6666562,11 L3.33334375,11 L3.33334375,3.3333125 L14.6666562,3.3333125 L14.6666562,11 L14.6666562,11 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

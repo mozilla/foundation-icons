@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
     <title>lock</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="All" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="lock" fill="#000000">
-            <g id="Group" transform="translate(4.000000, 4.000000)">
+            <g id="Group">
                 <path d="M8.83566,5.29767 C8.00946,5.29767 7.33716,5.96997 7.33716,6.79617 L7.33716,7.78887 L10.33506,7.78887 L10.33506,6.79617 C10.33506,5.96997 9.66276,5.29767 8.83566,5.29767" id="Fill-1"></path>
                 <path d="M12.43566,13.18842 L5.23566,13.18842 L5.23566,7.78842 L6.16626,7.78842 L6.16626,6.79572 C6.16626,5.32512 7.36416,4.12722 8.83566,4.12722 C10.30806,4.12722 11.50596,5.32512 11.50596,6.79572 L11.50596,7.78842 L12.43566,7.78842 L12.43566,13.18842 Z M8.83566,0.44982 C4.20426,0.44982 0.45036,4.20462 0.45036,8.83512 C0.45036,13.46652 4.20426,17.22042 8.83566,17.22042 C13.46706,17.22042 17.22096,13.46652 17.22096,8.83512 C17.22096,4.20462 13.46706,0.44982 8.83566,0.44982 L8.83566,0.44982 Z" id="Fill-3"></path>
             </g>

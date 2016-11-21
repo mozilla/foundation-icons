@@ -44,7 +44,13 @@ body {
 
 .icon-item img {
   max-height: 70%;
+  min-height: 45%;
   flex: 1;
+  transition: transform .25s cubic-bezier(0.095, 0.835, 0.365, 1.575);
+}
+
+.icon-item:hover img {
+  transform: scale(1.2);
 }
 
 .icon-name {
@@ -66,6 +72,8 @@ h1 {
   font-weight: 500;
   font-size: 35px;
   margin-bottom: 25px;
+  padding-bottom: 10px;
+  position: relative;
 }
 
 h2 {
@@ -143,3 +151,27 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+.github-button {
+  background: #cf299d;
+  color: white;
+  padding: 10px;
+  position: absolute;
+  border-radius: 4px;
+  right: 0;
+  font-size: 16px;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+.github-button:hover {
+  text-decoration: none;
+  opacity: .8;
+}
+
+
+
+.github-button:before {
+  margin-right: 5px;
+}
+  
