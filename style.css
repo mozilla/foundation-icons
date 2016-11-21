@@ -35,9 +35,20 @@ body {
   text-align: center;
   min-width: 200px;
   position: relative;
+  padding: 10px;
+}
+
+.icon-name, .icon-class, .icon-code {
+  padding: 5px 0;
+}
+
+.test {
+  display: none;
+}
+
+.icon-image-wrapper {
   height: 150px;
   display: flex;
-  padding: 10px 10px 60px 10px;
   align-items: center;
   justify-content: center;
 }
@@ -53,19 +64,7 @@ body {
   transform: scale(1.2);
 }
 
-.icon-name {
-  position: absolute;
-  bottom: 40px;
-  width: 100%;
-  left: 0;
-}
 
-.icon-class {
-  position: absolute;
-  bottom: 15px;
-  width: 100%;
-  left: 0;
-}
 
 h1 {
   border-bottom: solid 2px black;

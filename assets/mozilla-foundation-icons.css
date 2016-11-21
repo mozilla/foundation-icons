@@ -1,13 +1,13 @@
 @font-face {
-  font-family: 'mozmaker-icons';
-  src: url('mozmaker-icons.woff') format('woff');
+  font-family: 'mozilla-foundation-icons';
+  src: url('mozilla-foundation-icons.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
 
 [class^="icon-"]:before, [class*=" icon-"]:before {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'mozmaker-icons' !important;
+  font-family: 'mozilla-foundation-icons' !important;
   speak: none;
   font-style: normal;
   font-weight: normal;
