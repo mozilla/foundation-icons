@@ -4,20 +4,24 @@
 }
 
 body {
-  padding: 20px;
+  padding: 80px 20px 20px 20px;
   margin: 0;
 }
 
 .search-ui {
   margin-top: 40px;
-  padding: 5px 0 15px 0;
-  text-align: center;
+  margin-bottom: 10px;
+  text-align: left;
+  background: #efefef;
+  padding: 15px;
 }
 
 .search-ui input {
   width: 500px;
   border: solid 2px #ddd;
   border-width: 0 0 2px 0;
+  border: solid 1px #ccc;
+  padding: 10px;
   font-size: 22px;
   font-family: inherit;
   outline: none;
@@ -70,12 +74,20 @@ body {
 
 
 h1 {
-  border-bottom: solid 2px black;
+
   font-weight: 500;
   font-size: 35px;
-  margin-bottom: 25px;
+  margin: 0;
   padding-bottom: 10px;
   position: relative;
+  box-sizing: border-box;
+  background: #cf299d;
+  color: white;
+  padding: 20px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
 }
 
 h2 {
@@ -161,12 +173,12 @@ a:hover {
 }
 
 .github-button {
-  background: #cf299d;
-  color: white;
+  background: white;
+  color: #cf299d;
   padding: 10px;
   position: absolute;
   border-radius: 4px;
-  right: 0;
+  right: 20px;
   font-size: 16px;
   font-weight: 400;
   text-decoration: none;
@@ -174,10 +186,8 @@ a:hover {
 
 .github-button:hover {
   text-decoration: none;
-  opacity: .8;
+  opacity: .9;
 }
-
-
 
 .github-button:before {
   margin-right: 5px;
