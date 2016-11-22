@@ -90,6 +90,28 @@ h1 {
   width: 100%;
 }
 
+h1:before {
+  animation: pulse 1s ease-out infinite;
+  display: inline-block;
+}
+  
+@keyframes pulse {
+  
+  0% {
+    transform: scale(1);
+  }
+
+  10% {
+    transform: scale(.95);
+  }
+  20% {
+    transform: scale(1.1);
+  }
+  35% {
+    transform: scale(1);
+  }
+}
+
 h2 {
   margin-top: 40px;
 }
